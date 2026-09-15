@@ -13,10 +13,10 @@
       "version": "1.0.0",
       "summary": "MINHDUC • FFMAX EDITION",
       "description": "MINHDUC • FFMAX EDITION\n\nFEATURES\n\n• Aimbot — Hỗ trợ điều hướng mục tiêu.\n• ESP — Hiển thị thông tin đối thủ.\n• Optimized UI — Giao diện tối giản, trực quan.\n• Performance — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
-      "category": "Game",
+      "category": "AIMBOT",
       "tags": [
-        "Game",
-        "FreeFire"
+        "AIMBOT",
+        "FFMAX"
       ],
       "publishedAt": "2026-08-29T07:15:00Z",
       "download": "packages/AIMBOTv1.3105",
@@ -66,10 +66,10 @@
       "version": "2.0.0",
       "summary": "MINHDUC • FFMAX V2 EDITION",
       "description": "MINHDUC • FFMAX V2 EDITION\n\nFEATURES\n\n• Aimbot — Hỗ trợ điều hướng mục tiêu.\n• ESP — Hiển thị thông tin đối thủ.\n• Optimized UI — Giao diện tối giản, trực quan.\n• Performance — Tối ưu độ ổn định và trải nghiệm.\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp để hoàn tất thiết lập.\n\n↓ HỖ TRỢ ↓\n\nCần hỗ trợ, báo lỗi hoặc đề xuất ứng dụng?\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
-      "category": "Game",
+      "category": "AIMBOT",
       "tags": [
-        "Game",
-        "FreeFire"
+        "AIMBOT",
+        "FFMAX"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/AIMBOTv2.3105",
@@ -110,6 +110,90 @@
         "assets/IMG_8245.jpeg",
         "assets/icon.png"
       ],
+      "password": "1"
+    },
+    {
+      "identifier": "aimhead",
+      "name": "AimHead",
+      "author": "MINHDUC",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AimHead",
+      "description": "MINHDUC • AimHead\n\nFEATURES\n\n• AimHead\n• Optimized UI\n• Performance\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
+      "category": "FreeFire",
+      "tags": [
+        "FreeFire",
+        "AimHead"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/AimHead",
+      "sha256": "THAY_SHA256_THAT",
+      "size": 0,
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "password": "1"
+    },
+    {
+      "identifier": "aimlock",
+      "name": "AimLock",
+      "author": "MINHDUC",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AimLock",
+      "description": "MINHDUC • AimLock\n\nFEATURES\n\n• AimLock\n• Optimized UI\n• Performance\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
+      "category": "FreeFire",
+      "tags": [
+        "FreeFire",
+        "AimLock"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/AimLock",
+      "sha256": "THAY_SHA256_THAT",
+      "size": 0,
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "password": "1"
+    },
+    {
+      "identifier": "aimbody",
+      "name": "AimBody",
+      "author": "MINHDUC",
+      "version": "1.0.0",
+      "summary": "MINHDUC • AimBody",
+      "description": "MINHDUC • AimBody\n\nFEATURES\n\n• AimBody\n• Optimized UI\n• Performance\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
+      "category": "FreeFire",
+      "tags": [
+        "FreeFire",
+        "AimBody"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/AimBody",
+      "sha256": "THAY_SHA256_THAT",
+      "size": 0,
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "password": "1"
+    },
+    {
+      "identifier": "cancheckr8",
+      "name": "Cân Check R8",
+      "author": "MINHDUC",
+      "version": "1.0.0",
+      "summary": "MINHDUC • Cân Check R8",
+      "description": "MINHDUC • Cân Check R8\n\nFEATURES\n\n• Cân Check R8\n• Optimized UI\n• Performance\n\n↓ CÁCH CÀI ĐẶT ↓\n\nThực hiện theo hướng dẫn cài đặt được cung cấp.\n\n↓ HỖ TRỢ ↓\n\nLiên hệ: @MinhDuc\n\nMINHDUC\nUy Tín Tạo Nên Thương Hiệu",
+      "category": "FreeFire",
+      "tags": [
+        "FreeFire",
+        "R8"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/CanCheckR8",
+      "sha256": "THAY_SHA256_THAT",
+      "size": 0,
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
       "password": "1"
     }
   ]
