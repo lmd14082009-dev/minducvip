@@ -1,20 +1,15 @@
 {
-  "schemaVersion": 1,
-  "identifier": "com.minhduc.repository",
   "name": "Nguồn Patch MinhDuc",
-  "description": "Nguồn chứa patch FFMAX chất lượng cao",
-  "accentColor": "#FF0000",
+  "description": "Patch FFMAX chất lượng cao",
+  "iconURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/icon.png",
   "packages": [
     {
-      "identifier": "ffmax-patch",
       "name": "FFMAX AIMBOT ESP MINHDUC",
-      "author": "MinhDuc",
       "version": "1.0.0",
-      "summary": "Patch Aimbot & ESP cho FF Max",
+      "author": "MinhDuc",
       "description": "Patch Aimbot va ESP danh cho Free Fire Max",
-      "category": "Game",
-      "download": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/packages/freefiremax.3105",
-      "icon": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/assets/icon.png"
+      "downloadURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/freefiremax.3105",
+      "iconURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/icon.png"
     }
   ]
 }
