@@ -2,7 +2,7 @@
 "schemaVersion": 1, 
 "identifier": "minhduc.aimfreefiree.com", 
 "name": "MinhDuc Repository", 
-"description": "Kho Lưu Trữ Aim\nMod\nEsp\n Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : 0987282020 ✦",
+"description": "Kho Lưu Trữ Aim+Mod+Esp Của MinhDuc ✦\nThông Tin Liên Hệ tele: @minhducdz\nzalo : 0987282020 ✦",
 "accentColor": "#008080",
 "icon": "assets/minhducdz.JPEG", 
 "packages": [ 
@@ -20,7 +20,7 @@
       ],
       "publishedAt": "2026-08-29T07:15:00Z",
       "download": "packages/AIMBOTv1.3105",
-      "sha256": "d2af632c2abe645a33c0f472efe90a286bf343b95b354b20923b9e59f0f547f9",
+      "sha256": "072a75e1554cc86ff0bdb83fb7fb6c87ff314a426c5fb6e2bf3bcc5310abf8cf",
       "size": 16165924,
       "supportedOS": [
         {
