@@ -8,6 +8,7 @@
     {
       "identifier": "ffmax-aimbot-esp",
       "name": "FFMAX AIMBOT ESP MINHDUC",
+      "subtitle": "Patch Aimbot & ESP cho FF Max",
       "author": "MinhDuc",
       "version": "1.0.0",
       "summary": "Patch Aimbot & ESP dành cho Free Fire Max",
@@ -15,15 +16,15 @@
       "category": "Game",
       "tags": ["Application", "Game"],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "download": "frefiremax.3105",
+      "downloadURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/frefiremax.3105",
+      "iconURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/icon.PNG",
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" },
         { "minimum": "26.0", "maximum": "26.6.1" },
-        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h"] }
+        { "minimum": "27.0", "maximum": "27.0" }
       ],
       "featured": true,
       "isPrivate": false,
-      "icon": "icon.PNG",
       "password": ""
     }
   ]
