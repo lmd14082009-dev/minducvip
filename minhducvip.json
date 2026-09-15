@@ -72,7 +72,7 @@
         "FreeFire"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/AIMBOTv2.3105"
+      "download": "packages/AIMBOTv2.3105",
       "sha256": "9e4083450ae0a0dc2927876876642924785a8d93cc773fb6d962ee6777ad6295",
       "size": 16169618,
       "supportedOS": [
@@ -82,14 +82,14 @@
         },
         {
           "minimum": "26.0",
-          "maximum": "26.6.1"
+          "maximum": "26.assets6.1"
         },
         {
           "minimum": "27.0",
           "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
+/          "builds": [
+            "24A5355IMGq",
+            "_24A5370823h",
             "24A5380h",
             "24A5390f"
           ]
@@ -100,7 +100,7 @@
       "icon": "assets/icon.png",
       "screenshots": [
         "assets/IMG_8258.jpeg",
-        "assets/IMG_8231.jpeg",
+        "1.jpeg",
         "assets/IMG_8233.jpeg",
         "assets/IMG_8235.jpeg",
         "assets/IMG_8241.jpeg",
