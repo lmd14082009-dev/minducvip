@@ -3,7 +3,6 @@
   "identifier": "com.minhduc.repository",
   "name": "Nguồn Patch MinhDuc",
   "description": "Nguồn chứa patch FFMAX chất lượng cao",
-  "author": "MinhDuc",
   "accentColor": "#FF0000",
   "packages": [
     {
@@ -13,12 +12,19 @@
       "version": "1.0.0",
       "summary": "Patch Aimbot & ESP dành cho Free Fire Max",
       "description": "Patch Aimbot & ESP dành cho Free Fire Max",
-      "category": "Custom",
+      "category": "Game",
+      "tags": ["Application", "Game"],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "download": "ffmax.3105",
-      "icon": "icon.png",
-      "featured": false,
-      "isPrivate": false
+      "download": "frefiremax.3105",
+      "supportedOS": [
+        { "minimum": "17.0", "maximum": "18.7.1" },
+        { "minimum": "26.0", "maximum": "26.6.1" },
+        { "minimum": "27.0", "maximum": "27.0", "builds": ["24A5355q", "24A5370h"] }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "icon.PNG",
+      "password": ""
     }
   ]
 }
