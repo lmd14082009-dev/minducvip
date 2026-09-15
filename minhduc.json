@@ -17,7 +17,7 @@
       "tags": ["Application", "Game"],
       "publishedAt": "2026-09-15T00:00:00Z",
       "downloadURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/frefiremax.3105",
-      "iconURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/icon.PNG",
+      "iconURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/icon.png",
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" },
         { "minimum": "26.0", "maximum": "26.6.1" },
