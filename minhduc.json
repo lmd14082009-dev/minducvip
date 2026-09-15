@@ -2,13 +2,14 @@
   "name": "Nguồn Patch MinhDuc",
   "description": "Nguồn chứa patch FFMAX chất lượng cao",
   "author": "MinhDuc",
-  "patches": [
+  "packages": [
     {
       "name": "FFMAX AIMBOT ESP MINHDUC",
       "version": "1.0.0",
+      "category": "Custom",
       "author": "MinhDuc",
       "description": "Patch Aimbot & ESP dành cho Free Fire Max",
-      "download_url": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/ffmax.3105"
+      "download_url": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/ffmax.3105"
     }
   ]
 }
