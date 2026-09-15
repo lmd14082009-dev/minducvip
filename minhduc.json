@@ -1,15 +1,18 @@
 {
   "name": "Nguồn Patch MinhDuc",
-  "description": "Nguồn chứa patch FFMAX chất lượng cao",
-  "author": "MinhDuc",
+  "subtitle": "Kho patch chất lượng cao",
+  "description": "Nguồn chứa các patch FFMAX và FFTH",
+  "iconURL": "https://cdn.phototourl.com/free/2026-09-15-bbaf1772-4f03-4bd1-ad07-ac832e05e036.png",
+  "tintColor": "#FF0000",
   "packages": [
     {
       "name": "FFMAX AIMBOT ESP MINHDUC",
+      "developerName": "MinhDuc",
+      "subtitle": "Patch Aimbot & ESP",
       "version": "1.0.0",
-      "category": "Custom",
-      "author": "MinhDuc",
       "description": "Patch Aimbot & ESP dành cho Free Fire Max",
-      "download_url": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/main/ffmax.3105"
+      "iconURL": "https://cdn.phototourl.com/free/2026-09-15-bbaf1772-4f03-4bd1-ad07-ac832e05e036.png",
+      "downloadURL": "https://raw.githubusercontent.com/lmd14082009-dev/minducvip/refs/heads/main/freefiremax.3105"
     }
   ]
 }
