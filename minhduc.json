@@ -15,9 +15,9 @@
       "category": "Game",
       "tags": ["Application", "Game"],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "download": "frefiremax.3105",
+      "download": "freefiremax.3105",
       "sha256": "ae94fa142a7422b2e6a594e1174dae30cc99ebbaf269e2da2cd47447f619030d",
-      "size": 72535,
+      "size": 16777216,
       "supportedOS": [
         { "minimum": "17.0", "maximum": "18.7.1" },
         { "minimum": "26.0", "maximum": "26.6.1" },
@@ -25,7 +25,7 @@
       ],
       "featured": true,
       "isPrivate": false,
-      "icon": "icon.PNG",
+      "icon": "icon.png",
       "password": ""
     }
   ]
