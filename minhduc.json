@@ -11,11 +11,11 @@
       "author": "MinhDuc",
       "version": "1.0.0",
       "summary": "Patch Aimbot & ESP dành cho Free Fire Max",
-      "description": "★ Tính Năng ★\n\n• Aimbot tự động ngắm.\n• ESP hiển thị đối thủ.\n• Cấu hình tùy chỉnh.",
+      "description": "Patch Aimbot va ESP danh cho Free Fire Max",
       "category": "Game",
       "tags": ["Application", "Game"],
       "publishedAt": "2026-09-15T00:00:00Z",
-      "download": "freefiremax.3105",
+      "download": "packages/freefiremax.3105",
       "sha256": "ae94fa142a7422b2e6a594e1174dae30cc99ebbaf269e2da2cd47447f619030d",
       "size": 16777216,
       "supportedOS": [
@@ -25,7 +25,7 @@
       ],
       "featured": true,
       "isPrivate": false,
-      "icon": "icon.png",
+      "icon": "assets/icon.png",
       "password": ""
     }
   ]
